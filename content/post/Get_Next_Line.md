@@ -1,7 +1,7 @@
 ---
 title: "Get_Next_Line"
 date: 2021-03-15T18:53:21-03:00
-draft: True
+draft: False
 ---
 
 O GNL é uma função que deve retornar uma string com uma linha de um arquivo cada vez que for chamada. Ela faz isso até o "end of file", lendo um número n (que é definido como uma constante chamada BUFFER_SIZE) de bytes de cada vez e verificando se alguma condição de fim de linha -- EOF ou o \n -- existe dentro desses bytes que foram lidos. 
